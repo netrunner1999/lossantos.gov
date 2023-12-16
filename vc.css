@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(0, 5, 40);
+}
+
+.navbar-brand-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-brand-img {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+.navbar {
+    background-color: rgb(0, 5, 40) !important;
+    border-bottom: 2px solid white;
+}
+.navbar-brand, .nav-link {
+    color: white !important;
+    font-family: 'Playfair Display', serif;
+  }
+
+.photoss {
+    margin-top: 150px;
+    
+}
+
+h5, p {
+    font-size: 120%;
+    font-weight: 600;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    border-width: 2px;
+}
+
+h1 {
+    font-size: 400%;
+    color: antiquewhite;
+    margin-top: 50px;
+}
